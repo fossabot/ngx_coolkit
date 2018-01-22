@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_coolkit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_coolkit?ref=badge_shield)
+
 ABOUT:
 ------
 ngx_coolkit is collection of small and useful nginx add-ons.
@@ -74,3 +76,7 @@ Required modules (other than ngx_coolkit):
 - ngx_http_auth_request_module,
 - ngx_postgres (PostgreSQL) or ngx_drizzle (MySQL, Drizzle, SQLite),
 - ngx_set_misc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fngx_coolkit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fngx_coolkit?ref=badge_large)
